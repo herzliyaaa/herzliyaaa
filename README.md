@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ![Herzliyaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=herzliyaaa&theme=midnight-purple&show_icons=true&langs_count=6)
 
 
-
+[![Herzliyaaa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=herzliyaaa)](https://github.com/herzliyaaa/github-readme-stats)
 
 
