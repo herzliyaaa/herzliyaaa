@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herzliyaaa&theme=midnight-purple&layout=compact&card_width=445)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herzliyaaa&theme=chartreuse-dark&layout=compact&card_width=445&langs_count=10)
 
-![Herzliyaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=herzliyaaa&theme=midnight-purple&show_icons=true&langs_count=6)
+![Herzliyaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=herzliyaaa&theme=chartreuse-dark&show_icons=true)
 
 
-[![Herzliyaaa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=herzliyaaa)](https://github.com/herzliyaaa/github-readme-stats)
+
 
 
