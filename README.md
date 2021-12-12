@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herzliyaaa&theme=midnight-purple&layout=compact&card_width=445)
 
-![Herzliyaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=herzliyaaa&theme=midnight-purple&show_icons=true)
+![Herzliyaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=herzliyaaa&langs_count=8&theme=midnight-purple&show_icons=true)
 
 
 
