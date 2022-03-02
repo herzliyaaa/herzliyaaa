@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herzliyaaa&theme=chartreuse-dark&layout=compact&card_width=345&langs_count=10)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herzliyaaa&theme=chartreuse-dark&layout=compact&card_width=345&langs_count=10) -->
 
 <!-- ![Herzliyaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=herzliyaaa&theme=chartreuse-dark&show_icons=true) -->
 
