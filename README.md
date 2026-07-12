@@ -14,5 +14,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 Feel free to explore my repositories and reach out if you have any questions or just want to connect!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herzliyaaa&theme=codeSTACKr&layout=compact&card_width=345&langs_count=10)
  
